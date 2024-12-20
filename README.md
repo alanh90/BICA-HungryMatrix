@@ -2,6 +2,10 @@
 
 *An Adaptive Data Encoding Module for Hierarchical Concept Abstraction in AI Systems*
 
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/alanh90/BICA-HungryMatrix)
+![GitHub last commit](https://img.shields.io/github/last-commit/alanh90/BICA-HungryMatrix)
+![GitHub License](https://img.shields.io/github/license/alanh90/BICA-HungryMatrix)
+
 <div align="center"><img src="media/hungrymatrix.png" alt="Hungry Matrix Cover"></div>
 
 ## Abstract
