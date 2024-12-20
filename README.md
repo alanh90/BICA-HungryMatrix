@@ -2,7 +2,7 @@
 
 *An Adaptive Data Encoding Module for Hierarchical Concept Abstraction in AI Systems*
 
-<div align="center"><img src="media/hungrymatrix_cover.png" alt="Hungry Matrix Cover"></div>
+<div align="center"><img src="media/hungrymatrix.png" alt="Hungry Matrix Cover"></div>
 
 ## Abstract
 
