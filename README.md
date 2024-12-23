@@ -1,6 +1,6 @@
 # Hungry Matrix
 
-*An Adaptive Data Encoding Module for Hierarchical Concept Abstraction in AI Systems*
+*A potential integral component of the Bicameral AGI Project: An Adaptive Data Encoding Module for Hierarchical Concept Abstraction in AI Systems*
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/alanh90/BICA-HungryMatrix)
 ![GitHub last commit](https://img.shields.io/github/last-commit/alanh90/BICA-HungryMatrix)
